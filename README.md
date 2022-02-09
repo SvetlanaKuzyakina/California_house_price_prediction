@@ -1,1 +1,1 @@
-# Tasks_6_semestr
+# California_house_price_prediction
